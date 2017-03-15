@@ -367,8 +367,8 @@ a{
     text-decoration: none;
 }
 .row {
-margin-right:0px !important;
-margin-left: 0px!important;
+margin-right:0 !important;
+margin-left: 0!important;
 }
 
 a:hover, a:active{
@@ -376,7 +376,7 @@ a:hover, a:active{
     text-decoration: underline;
 }
 .navbar{
-    margin-bottom: 0px !important;
+    margin-bottom: 0 !important;
     background: rgb(255,255,255);
 }
 .navbar-nav>li>a {
@@ -772,8 +772,8 @@ a:hover, a:active{
 /* 992-1200px */
 @media screen and (max-width:1200px) {
     .col-div{
-        height: 312.45px;
-        width: 303.33px;
+        height: 312px;
+        width: 303px;
     }
 
     .bian-logo-icon,.chuanxin-logo-icon,.chonggou-logo-icon{
@@ -785,8 +785,8 @@ a:hover, a:active{
 /*768-992*/
 @media screen and (max-width:992px) {
     .col-div{
-        height: 318.37px;
-        width: 229.98px;
+        height: 318px;
+        width: 229px;
     }
     .bian-logo-icon,.chuanxin-logo-icon,.chonggou-logo-icon{
         width: 65px;
@@ -825,7 +825,7 @@ a:hover, a:active{
         width: 80px;
         height: 80px;
         background-size: 80px 80px;
-        margin-top: 0px;
+        margin-top: 0;
         margin-bottom: 25px;
 
     }
@@ -964,7 +964,7 @@ a:hover, a:active{
 .btn-theme-bg:hover img{
     transform: translate(5px);
     /*margin-left: 10px;*/
-    margin-right: 0px;
+    margin-right: 0;
 }
 .btn-theme-bg {
     background-color:  rgba(0, 117, 194, 0.8);
@@ -1322,7 +1322,7 @@ footer{
         background-color: #f2f2f2;
     }
     .five-convenient .middle-box5 {
-        margin-top: 0%;
+        margin-top: 0;
     }
 }
 /*app*/
@@ -1631,7 +1631,7 @@ footer{
 /*project-con*/
 
 .project-con{
-    margin-top: 0px;
+    margin-top: 0;
     margin-bottom: 50px;
     padding-top: 25px;
 }
@@ -1909,7 +1909,7 @@ footer{
     margin-bottom: 10px;
 }
 .news-list dl{
-    border-bottom: 0px solid rgba(170,170,170,.3);
+    border-bottom: 0 solid rgba(170,170,170,.3);
 }
 .news-list h4{
     font-size: 30px;
@@ -2233,9 +2233,9 @@ footer{
     font-size: 20px;
 }
 .company-msg .address-email p{
-    margin-top: 40px;
+    margin-top: 3px;
 }
 .company-msg .address-phone p{
-    margin-top: 40px;
+    margin-top: 30px;
 }
 
