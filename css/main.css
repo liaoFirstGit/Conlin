@@ -987,7 +987,7 @@ a:hover, a:active{
 /*footer*/
 footer{
     /*background-color: #0075C2;*/
-    background-color: #333;
+    background-color: #0075C2;
     width: 100%;
 }
 .footer-box{
@@ -1049,14 +1049,14 @@ footer{
     }
 }
 .fot-bottom{
-    background-color: #333;
+    background-color: #0075c2;
 }
 .fot-bottom p{
     text-align: center;
     font-size: 13px;
     padding: 14px 0;
     /*border-top: 1px solid rgba(255, 255, 255, 0.1);*/
-    color: #878787;
+    color: #1c1c1c;
     margin: 0;
     box-sizing: border-box;
 }
@@ -2233,7 +2233,7 @@ footer{
     font-size: 20px;
 }
 .company-msg .address-email p{
-    margin-top: 3px;
+    margin-top: 30px;
 }
 .company-msg .address-phone p{
     margin-top: 30px;
