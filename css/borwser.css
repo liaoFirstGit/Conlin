@@ -1,6 +1,6 @@
-.msg-slide{
-    display: none;
+.msg-slide .no-hide h1{
+    margin-top: 45%;
 }
-.btn-theme-bg{
-    background: #0075C2;
+.msg-slide .no-hide p{
+    margin: 0 auto;
 }
