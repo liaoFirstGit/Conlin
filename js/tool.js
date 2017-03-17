@@ -1,8 +1,7 @@
 /**
  * 新闻滚动
  */
-(function(jQuery){
-
+$(document).ready(function(){
     $.fn.BreakingNews = function(settings){
         var defaults={
             background		:'#FFF',
@@ -127,4 +126,4 @@
             });
         });
     };
-})(jQuery);
+});
